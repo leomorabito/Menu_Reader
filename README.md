@@ -13,3 +13,4 @@ Leveraging a pretrained Deep Learning model to classify images as menus or non-m
 ---
 
 ## 📂 Project Structure
+Menu_Reader/ ├── data/ │ └── raw_images/ # Input images │ ├── notebooks/ │ ├── 1_menu_detection_ocr.ipynb │ └── [other notebooks] │ ├── models/ │ └── [saved models and embeddings] │ ├── api/ │ ├── app.py │ └── requirements.txt │ └── README.md
