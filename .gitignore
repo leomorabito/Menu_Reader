@@ -1,0 +1,7 @@
+data/ 
+*.h5 
+__pycache__/ 
+.ipynb_checkpoints/ 
+*.zip 
+saved_models/
+notebooks_examples/
